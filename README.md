@@ -1,6 +1,6 @@
 # 📤 Uploader Bot
 
-A Telegram bot built with Grammy framework and MongoDB for file uploading and user management.
+A Telegram bot built with Grammy framework and MongoDB for file uploading files.
 
 ## ✨ Features
 
